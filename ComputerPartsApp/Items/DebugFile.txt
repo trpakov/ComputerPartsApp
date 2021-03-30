@@ -1,0 +1,360 @@
+29.5.2019 г. 22:46:45 ч.: New Computer CREATED
+29.5.2019 г. 22:46:59 ч.: Computer DISPOSED
+29.5.2019 г. 22:46:59 ч.: New Computer CREATED
+29.5.2019 г. 22:47:07 ч.: Computer DISPOSED
+29.5.2019 г. 22:47:07 ч.: New Computer CREATED
+29.5.2019 г. 22:47:11 ч.: Part AMD Ryzen 7 1700X | 385,88 лв. ADDED to Computer (new ID: 2083725184)
+29.5.2019 г. 22:47:17 ч.: Part AMD Ryzen 7 1700X | 385,88 лв. REMOVED from Computer (new ID: 757602046)
+29.5.2019 г. 22:47:17 ч.: Part Intel Celeron G4900 | 94,65 лв. ADDED to Computer (new ID: 171184743)
+29.5.2019 г. 22:47:23 ч.: Computer DISPOSED
+29.5.2019 г. 22:47:23 ч.: New Computer CREATED
+29.5.2019 г. 22:47:35 ч.: Part Intel Celeron G4900 | 94,65 лв. ADDED to Computer (new ID: 171184743)
+29.5.2019 г. 22:47:36 ч.: Part MSI PRO-E A320M | 92,41 лв. ADDED to Computer (new ID: 272255415)
+29.5.2019 г. 22:47:37 ч.: Part Corsair ValueSelect CMV4GX4M1A2400C16 | 32,68 лв. ADDED to Computer (new ID: -509721167)
+29.5.2019 г. 22:48:03 ч.: Computer DISPOSED
+29.5.2019 г. 22:48:03 ч.: New Computer CREATED
+29.5.2019 г. 22:48:10 ч.: Computer DISPOSED
+29.5.2019 г. 22:48:10 ч.: New Computer CREATED
+29.5.2019 г. 22:48:26 ч.: Part Fractal Design Meshify C Blackout B074DQVB97 | 176,65 лв. ADDED to Computer (new ID: 1542798818)
+29.5.2019 г. 22:49:48 ч.: New Computer CREATED
+29.5.2019 г. 22:49:55 ч.: Part ASRock H310M-HDV LGA1151 | 104,33 лв. ADDED to Computer (new ID: -1060715104)
+29.5.2019 г. 22:49:57 ч.: Computer DISPOSED
+29.5.2019 г. 22:49:57 ч.: New Computer CREATED
+29.5.2019 г. 22:49:59 ч.: Part Asus ROG STRIX B250G | 139,10 лв. ADDED to Computer (new ID: -2135618030)
+29.5.2019 г. 22:50:56 ч.: Computer DISPOSED
+29.5.2019 г. 22:50:56 ч.: New Computer CREATED
+29.5.2019 г. 22:51:11 ч.: Computer DISPOSED
+30.5.2019 г. 08:41:42 ч.: New Computer CREATED
+30.5.2019 г. 08:42:57 ч.: Part Sapphire PULSE Radeon 11267-19-20G | 232,89 лв. ADDED to Computer (new ID: -730826276)
+30.5.2019 г. 08:42:58 ч.: Part Seasonic Focus SGX SSR-450 | 134,65 лв. ADDED to Computer (new ID: -267380782)
+30.5.2019 г. 08:43:01 ч.: Part Western Digital WD Blue WD5000AZLX | 86,28 лв. ADDED to Computer (new ID: 1275154705)
+30.5.2019 г. 08:43:34 ч.: Part AeroCool mATX Cylon ACCS-PV12012 | 48,55 лв. ADDED to Computer (new ID: -62735120)
+30.5.2019 г. 08:43:46 ч.: Computer DISPOSED
+30.5.2019 г. 08:43:46 ч.: New Computer CREATED
+30.5.2019 г. 08:43:54 ч.: Part Asus Strix Tactic Pro B00N1MLRVK | 175,79 лв. ADDED to Computer (new ID: 1561943187)
+30.5.2019 г. 08:43:57 ч.: Part Genesis KRYPTON 700 NMG-0905 | 48,91 лв. ADDED to Computer (new ID: -1840647074)
+30.5.2019 г. 08:44:20 ч.: Computer DISPOSED
+30.5.2019 г. 08:44:20 ч.: New Computer CREATED
+30.5.2019 г. 08:44:43 ч.: Computer DISPOSED
+30.5.2019 г. 08:44:43 ч.: New Computer CREATED
+30.5.2019 г. 08:45:07 ч.: Part Intel Pentium G4560 | 138,15 лв. ADDED to Computer (new ID: 1412671402)
+30.5.2019 г. 08:45:08 ч.: Part ASRock H310M-HDV LGA1151 | 104,33 лв. ADDED to Computer (new ID: -729296015)
+30.5.2019 г. 08:46:20 ч.: Computer DISPOSED
+30.5.2019 г. 08:46:20 ч.: New Computer CREATED
+30.5.2019 г. 08:46:32 ч.: New Computer CREATED
+30.5.2019 г. 08:46:53 ч.: Computer DISPOSED
+30.5.2019 г. 08:46:53 ч.: New Computer CREATED
+30.5.2019 г. 08:46:55 ч.: New Computer CREATED
+30.5.2019 г. 08:52:54 ч.: Computer DISPOSED
+30.5.2019 г. 08:53:06 ч.: New Computer CREATED
+30.5.2019 г. 08:53:22 ч.: Computer DISPOSED
+30.5.2019 г. 08:53:22 ч.: New Computer CREATED
+30.5.2019 г. 09:09:10 ч.: Computer DISPOSED
+30.5.2019 г. 09:09:26 ч.: New Computer CREATED
+30.5.2019 г. 09:09:31 ч.: Computer DISPOSED
+30.5.2019 г. 09:09:48 ч.: New Computer CREATED
+30.5.2019 г. 09:10:00 ч.: Computer DISPOSED
+30.5.2019 г. 09:10:00 ч.: New Computer CREATED
+30.5.2019 г. 09:10:25 ч.: Computer DISPOSED
+30.5.2019 г. 09:10:25 ч.: New Computer CREATED
+30.5.2019 г. 09:10:28 ч.: Part Intel Celeron G4900 | 94,65 лв. ADDED to Computer (new ID: 171184743)
+30.5.2019 г. 09:10:29 ч.: Part MSI PRO-E A320M | 92,41 лв. ADDED to Computer (new ID: 272255415)
+30.5.2019 г. 09:10:57 ч.: Computer DISPOSED
+30.5.2019 г. 09:10:57 ч.: New Computer CREATED
+30.5.2019 г. 09:11:02 ч.: Computer DISPOSED
+30.5.2019 г. 09:11:02 ч.: New Computer CREATED
+30.5.2019 г. 09:11:28 ч.: Computer DISPOSED
+30.5.2019 г. 09:11:28 ч.: New Computer CREATED
+30.5.2019 г. 09:12:38 ч.: Computer DISPOSED
+30.5.2019 г. 09:12:38 ч.: New Computer CREATED
+30.5.2019 г. 09:12:43 ч.: Part QQQ QQQ QQQ | 1,00 лв. ADDED to Computer (new ID: -1344210548)
+30.5.2019 г. 09:12:44 ч.: Part MSI PRO-E A320M | 92,41 лв. ADDED to Computer (new ID: 1369216413)
+30.5.2019 г. 09:13:00 ч.: Part TeamGroup T-Force Delta RGB | 66,18 лв. ADDED to Computer (new ID: 184061835)
+30.5.2019 г. 09:13:01 ч.: Part Seasonic Focus SGX SSR-450 | 134,65 лв. ADDED to Computer (new ID: 499808906)
+30.5.2019 г. 09:13:05 ч.: Part Silicon Power Bolt B10 SP128GBPSDB10SBK | 62,29 лв. ADDED to Computer (new ID: -822477417)
+30.5.2019 г. 09:13:13 ч.: Computer DISPOSED
+30.5.2019 г. 09:13:13 ч.: New Computer CREATED
+30.5.2019 г. 09:13:25 ч.: Computer DISPOSED
+30.5.2019 г. 09:13:25 ч.: New Computer CREATED
+30.5.2019 г. 09:13:39 ч.: Computer DISPOSED
+30.5.2019 г. 09:13:39 ч.: New Computer CREATED
+30.5.2019 г. 09:13:50 ч.: New Computer CREATED
+30.5.2019 г. 09:17:47 ч.: Part Asus ROG STRIX B250G | 139,10 лв. ADDED to Computer (new ID: -2135618030)
+30.5.2019 г. 09:17:47 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: -1815665695)
+30.5.2019 г. 09:17:48 ч.: Part Sapphire PULSE Radeon 11267-19-20G | 232,89 лв. ADDED to Computer (new ID: -1115263250)
+30.5.2019 г. 09:17:56 ч.: Part Asus ROG STRIX B250G | 139,10 лв. REMOVED from Computer (new ID: -570205022)
+30.5.2019 г. 09:17:56 ч.: Part Palit GeForce GT 710 | 79,09 лв. ADDED to Computer (new ID: 34489160)
+30.5.2019 г. 09:18:00 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. REMOVED from Computer (new ID: 42893629)
+30.5.2019 г. 09:18:00 ч.: Part Sapphire PULSE Radeon 11267-19-20G | 232,89 лв. ADDED to Computer (new ID: 1417367552)
+30.5.2019 г. 09:19:39 ч.: Part Sapphire PULSE Radeon 11267-19-20G | 232,89 лв. REMOVED from Computer (new ID: -271254999)
+30.5.2019 г. 09:19:39 ч.: Part Sapphire PULSE Radeon 11267-19-20G | 232,89 лв. ADDED to Computer (new ID: 304544283)
+30.5.2019 г. 09:19:52 ч.: New Computer CREATED
+30.5.2019 г. 09:19:54 ч.: Part Asus Prime A320M-K | 92,82 лв. ADDED to Computer (new ID: 1078707308)
+30.5.2019 г. 09:20:07 ч.: Part ADATA Premier AD4U266638G19 | 85,06 лв. ADDED to Computer (new ID: 1932021804)
+30.5.2019 г. 09:20:09 ч.: Part Sapphire PULSE Radeon 11267-19-20G | 232,89 лв. ADDED to Computer (new ID: -1490551389)
+30.5.2019 г. 09:20:13 ч.: Part Seasonic Focus SGX SSR-450 | 134,65 лв. ADDED to Computer (new ID: 1084324362)
+30.5.2019 г. 09:20:17 ч.: Part Asus Prime A320M-K | 92,82 лв. REMOVED from Computer (new ID: -639273318)
+30.5.2019 г. 09:20:17 ч.: Part FSP HYPER K 700 | 114,58 лв. ADDED to Computer (new ID: 580637867)
+30.5.2019 г. 09:20:20 ч.: Part ADATA Premier AD4U266638G19 | 85,06 лв. REMOVED from Computer (new ID: 1947626616)
+30.5.2019 г. 09:20:20 ч.: Part Super Flower Leadex II SF-650F14EG | 227,33 лв. ADDED to Computer (new ID: -1773518864)
+30.5.2019 г. 09:20:31 ч.: Part SanDisk SSD PLUS SDSSDA-240G-G26 | 77,94 лв. ADDED to Computer (new ID: 297035271)
+30.5.2019 г. 09:20:34 ч.: Part Sapphire PULSE Radeon 11267-19-20G | 232,89 лв. REMOVED from Computer (new ID: 334197879)
+30.5.2019 г. 09:20:34 ч.: Part FSP HYPER K 700 | 114,58 лв. ADDED to Computer (new ID: -1712793249)
+30.5.2019 г. 09:20:36 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: -830264655)
+30.5.2019 г. 09:20:38 ч.: Part Intel Core i3-6100 | 147,13 лв. ADDED to Computer (new ID: 855819980)
+30.5.2019 г. 09:20:50 ч.: Part Seasonic Focus SGX SSR-450 | 134,65 лв. REMOVED from Computer (new ID: -231370273)
+30.5.2019 г. 09:20:50 ч.: Part Intel Celeron G4900 | 94,65 лв. ADDED to Computer (new ID: -473038411)
+30.5.2019 г. 09:20:52 ч.: Part Zalman mATX Black ZM-T3 | 46,14 лв. ADDED to Computer (new ID: -1948497140)
+30.5.2019 г. 09:20:56 ч.: Part FSP HYPER K 700 | 114,58 лв. REMOVED from Computer (new ID: 620934074)
+30.5.2019 г. 09:20:56 ч.: Part FSP HYPER K 700 | 114,58 лв. ADDED to Computer (new ID: -188782223)
+30.5.2019 г. 09:20:57 ч.: Part Super Flower Leadex II SF-650F14EG | 227,33 лв. REMOVED from Computer (new ID: 1101486149)
+30.5.2019 г. 09:20:57 ч.: Part Super Flower Leadex II SF-650F14EG | 227,33 лв. ADDED to Computer (new ID: -2119478742)
+30.5.2019 г. 09:21:00 ч.: Part SanDisk SSD PLUS SDSSDA-240G-G26 | 77,94 лв. REMOVED from Computer (new ID: 676276007)
+30.5.2019 г. 09:21:00 ч.: Part SanDisk SSD PLUS SDSSDA-240G-G26 | 77,94 лв. ADDED to Computer (new ID: -807579570)
+30.5.2019 г. 09:21:09 ч.: Part Asus Prime A320M-K | 92,82 лв. ADDED to Computer (new ID: 1012962563)
+30.5.2019 г. 09:21:16 ч.: Part FSP HYPER K 700 | 114,58 лв. REMOVED from Computer (new ID: -1139581783)
+30.5.2019 г. 09:21:16 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: -99542306)
+30.5.2019 г. 09:21:20 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. REMOVED from Computer (new ID: -696375443)
+30.5.2019 г. 09:21:20 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: -1450773456)
+30.5.2019 г. 09:21:24 ч.: Part Intel Core i3-6100 | 147,13 лв. REMOVED from Computer (new ID: -1777725645)
+30.5.2019 г. 09:21:24 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: -965615754)
+30.5.2019 г. 09:21:29 ч.: Part Intel Celeron G4900 | 94,65 лв. REMOVED from Computer (new ID: 332161457)
+30.5.2019 г. 09:21:29 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: 582369769)
+30.5.2019 г. 09:21:57 ч.: Computer DISPOSED
+30.5.2019 г. 09:21:57 ч.: New Computer CREATED
+30.5.2019 г. 09:22:01 ч.: Part QQQ QQQ QQQ | 1,00 лв. ADDED to Computer (new ID: -1344210548)
+30.5.2019 г. 09:22:05 ч.: Part MSI PRO-E A320M | 92,41 лв. ADDED to Computer (new ID: 1369216413)
+30.5.2019 г. 09:22:10 ч.: Part QQQ QQQ QQQ | 1,00 лв. REMOVED from Computer (new ID: 170461623)
+30.5.2019 г. 09:22:10 ч.: Part Asus Prime A320M-K | 92,82 лв. ADDED to Computer (new ID: -1501930816)
+30.5.2019 г. 09:25:42 ч.: Computer DISPOSED
+30.5.2019 г. 09:25:57 ч.: New Computer CREATED
+30.5.2019 г. 09:26:02 ч.: Part QQQ QQQ QQQ | 1,00 лв. ADDED to Computer (new ID: -1344210548)
+30.5.2019 г. 09:26:10 ч.: Part MSI PRO-E A320M | 92,41 лв. ADDED to Computer (new ID: 1369216413)
+30.5.2019 г. 09:26:19 ч.: Part MSI PRO-E A320M | 92,41 лв. REMOVED from Computer (new ID: -1344210548)
+30.5.2019 г. 09:26:19 ч.: Part Asus Prime A320M-K | 92,82 лв. ADDED to Computer (new ID: 1283146028)
+30.5.2019 г. 09:26:28 ч.: Part Asus Prime A320M-K | 92,82 лв. REMOVED from Computer (new ID: -1344210548)
+30.5.2019 г. 09:26:28 ч.: Part MSI PRO-E A320M | 92,41 лв. ADDED to Computer (new ID: 1369216413)
+30.5.2019 г. 09:26:34 ч.: Part MSI PRO-E A320M | 92,41 лв. REMOVED from Computer (new ID: -1344210548)
+30.5.2019 г. 09:26:34 ч.: Part Asus Prime A320M-K | 92,82 лв. ADDED to Computer (new ID: 1283146028)
+30.5.2019 г. 09:26:36 ч.: Part Asus Prime A320M-K | 92,82 лв. REMOVED from Computer (new ID: -1344210548)
+30.5.2019 г. 09:26:36 ч.: Part MSI PRO-E A320M | 92,41 лв. ADDED to Computer (new ID: 1369216413)
+30.5.2019 г. 09:27:39 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: -780030077)
+30.5.2019 г. 09:27:40 ч.: Part Asus Mining RX 470 | 253,67 лв. ADDED to Computer (new ID: 1458393186)
+30.5.2019 г. 09:27:40 ч.: Part be quiet! Straight Power 11 BN284 | 292,01 лв. ADDED to Computer (new ID: 1003377860)
+30.5.2019 г. 09:27:41 ч.: Part Silicon Power Bolt B10 SP128GBPSDB10SBK | 62,29 лв. ADDED to Computer (new ID: -1095470526)
+30.5.2019 г. 09:27:53 ч.: Part Asus Mining RX 470 | 253,67 лв. REMOVED from Computer (new ID: -504360646)
+30.5.2019 г. 09:27:53 ч.: Part Gainward Pegasus GTX1660Ti | 564,25 лв. ADDED to Computer (new ID: -331316162)
+30.5.2019 г. 09:28:00 ч.: Part Gainward Pegasus GTX1660Ti | 564,25 лв. REMOVED from Computer (new ID: -504360646)
+30.5.2019 г. 09:28:00 ч.: Part PowerColor Red Devil RX 570 | 819,90 лв. ADDED to Computer (new ID: 1823340281)
+30.5.2019 г. 09:28:10 ч.: Part PowerColor Red Devil RX 570 | 819,90 лв. REMOVED from Computer (new ID: -504360646)
+30.5.2019 г. 09:28:10 ч.: Part Gainward Pegasus GTX1660Ti | 564,25 лв. ADDED to Computer (new ID: -331316162)
+30.5.2019 г. 09:28:53 ч.: Computer DISPOSED
+30.5.2019 г. 09:28:53 ч.: New Computer CREATED
+30.5.2019 г. 09:29:06 ч.: Part Intel Pentium G4560 | 138,15 лв. ADDED to Computer (new ID: 1412671402)
+30.5.2019 г. 09:29:11 ч.: Part Intel Pentium G4560 | 138,15 лв. REMOVED from Computer (new ID: 757602046)
+30.5.2019 г. 09:29:11 ч.: Part QQQ QQQ QQQ | 1,00 лв. ADDED to Computer (new ID: -1344210548)
+30.5.2019 г. 09:30:00 ч.: Computer DISPOSED
+30.5.2019 г. 09:30:00 ч.: New Computer CREATED
+30.5.2019 г. 09:30:37 ч.: Computer DISPOSED
+30.5.2019 г. 09:30:43 ч.: New Computer CREATED
+30.5.2019 г. 09:30:46 ч.: Part QQQ QQQ QQQ | 1,00 лв. ADDED to Computer (new ID: -1344210548)
+30.5.2019 г. 09:30:53 ч.: Part ASRock H310M-HDV LGA1151 | 104,33 лв. ADDED to Computer (new ID: 340842120)
+30.5.2019 г. 09:31:15 ч.: Computer DISPOSED
+30.5.2019 г. 09:31:15 ч.: New Computer CREATED
+30.5.2019 г. 09:31:24 ч.: Computer DISPOSED
+30.5.2019 г. 09:31:37 ч.: New Computer CREATED
+30.5.2019 г. 09:31:53 ч.: Part QQQ QQQ QQQ | 1,00 лв. ADDED to Computer (new ID: -1344210548)
+30.5.2019 г. 09:32:00 ч.: Computer DISPOSED
+30.5.2019 г. 09:34:40 ч.: New Computer CREATED
+30.5.2019 г. 09:34:42 ч.: Part QQQ QQQ QQQ | 1,00 лв. ADDED to Computer (new ID: -1344210548)
+30.5.2019 г. 09:34:50 ч.: Part ASRock H310M-HDV LGA1151 | 104,33 лв. ADDED to Computer (new ID: 340842120)
+30.5.2019 г. 09:34:56 ч.: Computer DISPOSED
+30.5.2019 г. 09:34:56 ч.: New Computer CREATED
+30.5.2019 г. 09:35:03 ч.: Part ASRock H310M-HDV LGA1151 | 104,33 лв. ADDED to Computer (new ID: -1060715104)
+30.5.2019 г. 09:36:19 ч.: Computer DISPOSED
+30.5.2019 г. 09:36:25 ч.: New Computer CREATED
+30.5.2019 г. 09:36:30 ч.: Part Intel Pentium G4560 | 138,15 лв. ADDED to Computer (new ID: 1412671402)
+30.5.2019 г. 09:36:41 ч.: Computer DISPOSED
+30.5.2019 г. 09:36:41 ч.: New Computer CREATED
+30.5.2019 г. 09:37:06 ч.: Computer DISPOSED
+30.5.2019 г. 09:37:06 ч.: New Computer CREATED
+30.5.2019 г. 09:37:16 ч.: Computer DISPOSED
+30.5.2019 г. 09:37:16 ч.: New Computer CREATED
+30.5.2019 г. 09:37:45 ч.: Part Kingston HyperX FURY HX424C15FB | 61,71 лв. ADDED to Computer (new ID: -1071541365)
+30.5.2019 г. 09:37:51 ч.: Part Asus GTX760 DC2OC-2GD5 | 345,07 лв. ADDED to Computer (new ID: -2032496403)
+30.5.2019 г. 09:37:59 ч.: Part Kingston HyperX FURY HX424C15FB | 61,71 лв. REMOVED from Computer (new ID: 618430832)
+30.5.2019 г. 09:37:59 ч.: Part G.Skill Aegis F4-2400C17S-8GIS | 201,51 лв. ADDED to Computer (new ID: 351432732)
+30.5.2019 г. 09:38:05 ч.: Part G.Skill Aegis F4-2400C17S-8GIS | 201,51 лв. REMOVED from Computer (new ID: 618430832)
+30.5.2019 г. 09:38:05 ч.: Part Corsair ValueSelect CMV4GX4M1A2400C16 | 32,68 лв. ADDED to Computer (new ID: 1659062361)
+30.5.2019 г. 09:38:13 ч.: Computer DISPOSED
+30.5.2019 г. 09:38:13 ч.: New Computer CREATED
+30.5.2019 г. 09:38:20 ч.: Computer DISPOSED
+30.5.2019 г. 09:38:20 ч.: New Computer CREATED
+30.5.2019 г. 09:38:42 ч.: Part Zalman mATX Black ZM-T3 | 46,14 лв. ADDED to Computer (new ID: 1331176791)
+30.5.2019 г. 09:38:55 ч.: Computer DISPOSED
+30.5.2019 г. 09:38:55 ч.: New Computer CREATED
+30.5.2019 г. 09:40:19 ч.: Computer DISPOSED
+30.5.2019 г. 09:40:19 ч.: New Computer CREATED
+30.5.2019 г. 09:40:40 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: -1692790966)
+30.5.2019 г. 09:40:40 ч.: Part Asus Mining RX 470 | 253,67 лв. ADDED to Computer (new ID: 1066860118)
+30.5.2019 г. 09:40:41 ч.: Part FSP HYPER K 700 | 114,58 лв. ADDED to Computer (new ID: -1425742092)
+30.5.2019 г. 09:40:42 ч.: Part SanDisk SSD PLUS SDSSDA-240G-G26 | 77,94 лв. ADDED to Computer (new ID: -2023910401)
+30.5.2019 г. 09:40:48 ч.: Part Acer R221Q UMWR1EE001 | 209,45 лв. ADDED to Computer (new ID: 241724561)
+30.5.2019 г. 09:40:51 ч.: Part Fractal Design Meshify C Blackout B074DQVB97 | 176,65 лв. ADDED to Computer (new ID: -1239474057)
+30.5.2019 г. 09:41:02 ч.: Computer DISPOSED
+30.5.2019 г. 09:41:02 ч.: New Computer CREATED
+30.5.2019 г. 09:41:39 ч.: Computer DISPOSED
+30.5.2019 г. 09:41:39 ч.: New Computer CREATED
+30.5.2019 г. 09:41:50 ч.: Computer DISPOSED
+30.5.2019 г. 09:44:54 ч.: New Computer CREATED
+30.5.2019 г. 09:44:58 ч.: Part Intel Celeron G4900 | 94,65 лв. ADDED to Computer (new ID: 171184743)
+30.5.2019 г. 09:45:41 ч.: Computer DISPOSED
+30.5.2019 г. 09:45:41 ч.: New Computer CREATED
+30.5.2019 г. 09:45:47 ч.: Part q q q | 1,00 лв. ADDED to Computer (new ID: 1926692193)
+30.5.2019 г. 09:46:01 ч.: Computer DISPOSED
+30.5.2019 г. 09:46:01 ч.: New Computer CREATED
+30.5.2019 г. 09:46:06 ч.: Part ASRock H310M-HDV LGA1151 | 104,33 лв. ADDED to Computer (new ID: -1060715104)
+30.5.2019 г. 09:46:21 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: -641018020)
+30.5.2019 г. 09:46:22 ч.: Part Asus Mining RX 470 | 253,67 лв. ADDED to Computer (new ID: 540446992)
+30.5.2019 г. 09:46:23 ч.: Part Intel Core i3-6100 | 147,13 лв. ADDED to Computer (new ID: 1214652663)
+30.5.2019 г. 09:48:04 ч.: Computer DISPOSED
+30.5.2019 г. 09:48:04 ч.: New Computer CREATED
+30.5.2019 г. 09:49:05 ч.: Computer DISPOSED
+30.5.2019 г. 09:49:05 ч.: New Computer CREATED
+30.5.2019 г. 09:49:09 ч.: Part Intel Core I5-7400 | 99 999 999 999,00 лв. ADDED to Computer (new ID: 2092777664)
+30.5.2019 г. 09:49:10 ч.: Part Asus Prime A320M-K | 92,82 лв. ADDED to Computer (new ID: 853388615)
+30.5.2019 г. 09:49:11 ч.: Part Corsair ValueSelect CMV4GX4M1A2400C16 | 32,68 лв. ADDED to Computer (new ID: 387519015)
+30.5.2019 г. 09:49:50 ч.: Computer DISPOSED
+30.5.2019 г. 09:49:50 ч.: New Computer CREATED
+30.5.2019 г. 09:49:53 ч.: Computer DISPOSED
+30.5.2019 г. 09:54:21 ч.: New Computer CREATED
+30.5.2019 г. 09:54:32 ч.: Computer DISPOSED
+30.5.2019 г. 09:54:32 ч.: New Computer CREATED
+30.5.2019 г. 09:54:32 ч.: Computer DISPOSED
+30.5.2019 г. 09:54:32 ч.: New Computer CREATED
+30.5.2019 г. 09:54:33 ч.: Computer DISPOSED
+30.5.2019 г. 09:54:33 ч.: New Computer CREATED
+30.5.2019 г. 09:54:33 ч.: Computer DISPOSED
+30.5.2019 г. 09:54:33 ч.: New Computer CREATED
+30.5.2019 г. 09:54:34 ч.: Computer DISPOSED
+30.5.2019 г. 09:54:34 ч.: New Computer CREATED
+30.5.2019 г. 09:54:34 ч.: Computer DISPOSED
+30.5.2019 г. 09:54:34 ч.: New Computer CREATED
+30.5.2019 г. 09:54:42 ч.: Part Intel Celeron G4900 | 94,65 лв. ADDED to Computer (new ID: 171184743)
+30.5.2019 г. 09:54:43 ч.: Part MSI PRO-E A320M | 92,41 лв. ADDED to Computer (new ID: 272255415)
+30.5.2019 г. 09:55:12 ч.: Computer DISPOSED
+30.5.2019 г. 09:57:06 ч.: New Computer CREATED
+30.5.2019 г. 09:57:10 ч.: Part PowerColor Red Devil RX 570 | 819,90 лв. ADDED to Computer (new ID: 1985630055)
+30.5.2019 г. 09:58:07 ч.: Computer DISPOSED
+30.5.2019 г. 09:58:07 ч.: New Computer CREATED
+30.5.2019 г. 09:58:08 ч.: Computer DISPOSED
+30.5.2019 г. 11:16:32 ч.: New Computer CREATED
+30.5.2019 г. 11:16:55 ч.: Part Asus Prime A320M-K | 92,82 лв. ADDED to Computer (new ID: 1078707308)
+30.5.2019 г. 11:16:56 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: -1939368870)
+30.5.2019 г. 11:16:57 ч.: Part Gainward Pegasus GTX1660Ti | 564,25 лв. ADDED to Computer (new ID: -1900978133)
+30.5.2019 г. 11:19:30 ч.: Computer DISPOSED
+30.5.2019 г. 11:19:45 ч.: New Computer CREATED
+30.5.2019 г. 11:19:47 ч.: Part MSI PRO-E A320M | 92,41 лв. ADDED to Computer (new ID: 170461623)
+30.5.2019 г. 11:19:48 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: -607310230)
+30.5.2019 г. 11:19:48 ч.: Part Sapphire PULSE Radeon 11267-19-20G | 232,89 лв. ADDED to Computer (new ID: 1461574809)
+30.5.2019 г. 11:20:04 ч.: Part Seasonic Focus SGX SSR-450 | 134,65 лв. ADDED to Computer (new ID: -1980366008)
+30.5.2019 г. 11:20:22 ч.: Computer DISPOSED
+30.5.2019 г. 11:20:36 ч.: New Computer CREATED
+30.5.2019 г. 11:20:37 ч.: Part Asus Prime A320M-K | 92,82 лв. ADDED to Computer (new ID: 1078707308)
+30.5.2019 г. 11:25:23 ч.: Part Kingston HyperX FURY HX424C15FB | 61,71 лв. ADDED to Computer (new ID: 1362350392)
+30.5.2019 г. 11:25:32 ч.: Computer DISPOSED
+30.5.2019 г. 11:25:37 ч.: New Computer CREATED
+30.5.2019 г. 11:25:44 ч.: Computer DISPOSED
+30.5.2019 г. 11:26:04 ч.: New Computer CREATED
+30.5.2019 г. 11:26:07 ч.: Part Asus Prime A320M-K | 92,82 лв. ADDED to Computer (new ID: 1078707308)
+30.5.2019 г. 11:27:01 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: -1939368870)
+30.5.2019 г. 11:27:14 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. REMOVED from Computer (new ID: 1078707308)
+30.5.2019 г. 11:27:14 ч.: Part Crucial DRAM CT4G4DFS8266 | 50,78 лв. ADDED to Computer (new ID: -1939368870)
+30.5.2019 г. 11:27:43 ч.: Computer DISPOSED
+30.5.2019 г. 11:28:07 ч.: New Computer CREATED
+30.5.2019 г. 11:28:18 ч.: Computer DISPOSED
+30.5.2019 г. 11:44:04 ч.: New Computer CREATED
+30.5.2019 г. 11:44:17 ч.: Part Intel Celeron G4900 | 94,65 лв. ADDED to Computer (new ID: 171184743)
+30.5.2019 г. 11:44:23 ч.: Computer DISPOSED
+30.5.2019 г. 12:19:44 ч.: New Computer CREATED
+30.5.2019 г. 12:19:46 ч.: Part Intel Core i3-6100 | 147,13 лв. ADDED to Computer (new ID: 638184526)
+30.5.2019 г. 12:19:50 ч.: Computer DISPOSED
+1.6.2019 г. 13:35:07 ч.: New Computer CREATED
+1.6.2019 г. 13:35:10 ч.: Part Intel Core i3-6100 | 147,13 лв. ADDED to Computer (new ID: 638184526)
+1.6.2019 г. 13:35:20 ч.: Part Intel Core i3-6100 | 147,13 лв. REMOVED from Computer (new ID: 757602046)
+1.6.2019 г. 13:35:20 ч.: Part Intel Core I5-7400 | 402,42 лв. ADDED to Computer (new ID: 851021502)
+1.6.2019 г. 13:35:23 ч.: Part ASRock Fatal1ty AB350 | 154,01 лв. ADDED to Computer (new ID: -1925057879)
+1.6.2019 г. 13:35:25 ч.: Computer DISPOSED
+1.6.2019 г. 13:35:25 ч.: New Computer CREATED
+1.6.2019 г. 13:35:26 ч.: Computer DISPOSED
+1.6.2019 г. 14:04:10 ч.: New Computer CREATED
+1.6.2019 г. 14:05:03 ч.: Computer DISPOSED
+1.6.2019 г. 14:14:55 ч.: New Computer CREATED
+1.6.2019 г. 14:17:02 ч.: Computer DISPOSED
+1.6.2019 г. 14:23:30 ч.: New Computer CREATED
+1.6.2019 г. 14:25:39 ч.: Computer DISPOSED
+1.6.2019 г. 14:26:35 ч.: New Computer CREATED
+1.6.2019 г. 14:30:55 ч.: Computer DISPOSED
+1.6.2019 г. 14:40:38 ч.: New Computer CREATED
+1.6.2019 г. 14:41:12 ч.: Computer DISPOSED
+1.6.2019 г. 14:41:12 ч.: New Computer CREATED
+1.6.2019 г. 14:41:14 ч.: Computer DISPOSED
+1.6.2019 г. 14:41:17 ч.: New Computer CREATED
+1.6.2019 г. 14:46:47 ч.: Part QQQ QQQ QQQ | 11,00 лв. ADDED to Computer (new ID: -54536189)
+1.6.2019 г. 14:49:06 ч.: Computer DISPOSED
+1.6.2019 г. 14:49:06 ч.: New Computer CREATED
+1.6.2019 г. 14:49:09 ч.: Part ABC ABC ABC | 2,00 лв. ADDED to Computer (new ID: 199950008)
+1.6.2019 г. 14:49:25 ч.: Computer DISPOSED
+1.6.2019 г. 14:49:25 ч.: New Computer CREATED
+1.6.2019 г. 14:49:27 ч.: Computer DISPOSED
+1.6.2019 г. 15:17:36 ч.: New Computer CREATED
+1.6.2019 г. 15:17:39 ч.: Part ASRock H310M-HDV LGA1151 | 104,33 лв. ADDED to Computer (new ID: -1060715104)
+1.6.2019 г. 15:17:44 ч.: Computer DISPOSED
+1.6.2019 г. 15:34:04 ч.: New Computer CREATED
+1.6.2019 г. 15:34:43 ч.: Computer DISPOSED
+1.6.2019 г. 15:34:43 ч.: New Computer CREATED
+1.6.2019 г. 15:34:44 ч.: Part QQQ QQQ QQQ | 11,00 лв. ADDED to Computer (new ID: -54536189)
+1.6.2019 г. 15:34:46 ч.: Part Asus Prime A320M-K | 92,82 лв. ADDED to Computer (new ID: -102095226)
+1.6.2019 г. 15:34:47 ч.: Part Asus Prime A320M-K | 92,82 лв. REMOVED from Computer (new ID: -54536189)
+1.6.2019 г. 15:34:47 ч.: Part MSI PRO-E A320M | 92,41 лв. ADDED to Computer (new ID: -495577613)
+1.6.2019 г. 15:34:48 ч.: Part Corsair ValueSelect CMV4GX4M1A2400C16 | 32,68 лв. ADDED to Computer (new ID: -1720052542)
+1.6.2019 г. 15:35:00 ч.: Computer DISPOSED
+1.6.2019 г. 15:35:00 ч.: New Computer CREATED
+1.6.2019 г. 15:35:17 ч.: Computer DISPOSED
+1.6.2019 г. 15:35:17 ч.: New Computer CREATED
+1.6.2019 г. 15:35:22 ч.: Computer DISPOSED
+1.6.2019 г. 15:35:22 ч.: New Computer CREATED
+1.6.2019 г. 15:35:25 ч.: New Computer CREATED
+1.6.2019 г. 15:38:33 ч.: Computer DISPOSED
+3.6.2019 г. 15:54:25 ч.: New Computer CREATED
+3.6.2019 г. 15:55:05 ч.: Computer DISPOSED
+3.6.2019 г. 15:55:05 ч.: New Computer CREATED
+3.6.2019 г. 15:55:11 ч.: Part IntelAAA Celeron G4900 | 94,65 лв. ADDED to Computer (new ID: -1759531592)
+3.6.2019 г. 15:55:13 ч.: Part Asus Prime A320M-K | 92,82 лв. ADDED to Computer (new ID: 1380545681)
+3.6.2019 г. 15:55:22 ч.: Computer DISPOSED
+3.6.2019 г. 15:55:24 ч.: New Computer CREATED
+3.6.2019 г. 15:55:30 ч.: Part IntelAAA Celeron G4900 | 94,65 лв. ADDED to Computer (new ID: -1759531592)
+3.6.2019 г. 15:55:30 ч.: Part ASRock H310M-HDV LGA1151 | 104,33 лв. ADDED to Computer (new ID: -984113712)
+3.6.2019 г. 15:55:59 ч.: Computer DISPOSED
+3.6.2019 г. 15:55:59 ч.: New Computer CREATED
+3.6.2019 г. 15:56:02 ч.: Part Intel Celeron G4900 | 94,65 лв. ADDED to Computer (new ID: 171184743)
+3.6.2019 г. 15:56:09 ч.: Computer DISPOSED
+4.6.2019 г. 16:39:48 ч.: New Computer CREATED
+4.6.2019 г. 16:41:51 ч.: Computer DISPOSED
+4.6.2019 г. 22:09:03 ч.: New Computer CREATED
+4.6.2019 г. 22:09:34 ч.: Computer DISPOSED
+4.6.2019 г. 22:09:34 ч.: New Computer CREATED
+4.6.2019 г. 22:09:53 ч.: Computer DISPOSED
+4.6.2019 г. 22:09:53 ч.: New Computer CREATED
+4.6.2019 г. 22:10:09 ч.: Computer DISPOSED
+4.6.2019 г. 22:10:11 ч.: New Computer CREATED
+4.6.2019 г. 22:10:31 ч.: Computer DISPOSED
+4.6.2019 г. 22:10:31 ч.: New Computer CREATED
+4.6.2019 г. 22:10:32 ч.: Computer DISPOSED
+4.6.2019 г. 22:10:34 ч.: New Computer CREATED
+4.6.2019 г. 22:10:38 ч.: Computer DISPOSED
+30.3.2021 г. 16:06:46 ч.: New Computer CREATED
+30.3.2021 г. 16:06:48 ч.: Computer DISPOSED
+30.3.2021 г. 16:06:55 ч.: New Computer CREATED
+30.3.2021 г. 16:06:59 ч.: Part ASRock H310M-HDV LGA1151 | 104,33 лв. ADDED to Computer (new ID: -1060715104)
+30.3.2021 г. 16:07:08 ч.: Computer DISPOSED
